@@ -79,6 +79,11 @@ I document my architectural decisions and system designs. Here are some of my de
 * Optimized AWS Lambda to handle **50,000+ concurrent users**.
 * Designed automated cloud provisioning for custom JupyterHub instances.
 
+**Software Engineer @ [Knowhere Studio](https://jaiswalankit.com.np/)**
+*July 2020 - Jan 2022*
+* optimized RESTful APIs with **Redis caching**, reducing database query response times by **40%**, and enhancing scalability for **10,000+ active users**.
+* Integrated APIs into an **Angular-based CMS**, deployed on **AWS EC2**, guaranteeing 99.9% uptime.
+
 ---
 
 <div align="center">
