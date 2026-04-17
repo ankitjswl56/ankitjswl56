@@ -8,7 +8,7 @@
   <h3>🚀 Building Scalable AI-Powered Platforms & Cloud Architectures</h3>
   <p>
     <a href="https://jaiswalankit.com.np/"><b>🌐 Portfolio</b></a> •
-    <a href="https://www.jaiswalankit.com.np/case-studies"><b>📚 Case Studies</b></a> •
+    <a href="https://www.jaiswalankit.com.np/engineering"><b>📚 Engineering</b></a> •
     <a href="https://www.linkedin.com/in/ankitjaiswal56/"><b>👔 LinkedIn</b></a>
   </p>
 </div>
@@ -47,11 +47,11 @@ I document my architectural decisions and system designs. Here are some of my de
 
 | Case Study | Domain | Tech Highlights |
 | :--- | :--- | :--- |
-| [**Building a RAG Application for AI-Powered File Interaction**](https://www.jaiswalankit.com.np/case-studies/rag-application) | 🤖 AI / LLM | `RAG`, `LangChain`, `Vector DB`, `Python` |
-| [**Automating EC2 & JupyterHub Provisioning**](https://www.jaiswalankit.com.np/case-studies/aws-architecture) | ☁️ Cloud / DevOps | `AWS SDK`, `IAM`, `EC2 Orchestration` |
-| [**Architecting a Scalable LMS**](https://www.jaiswalankit.com.np/case-studies/lms-architecure) | 🏗️ System Design | `Microservices`, `MinIO`, `Docker` |
-| [**Reliable Chat Messaging Integration**](https://www.jaiswalankit.com.np/case-studies/chat-message-with-rabbitmq) | 📨 Distributed Systems | `RabbitMQ`, `Socket.IO`, `Message Durability` |
-| [**Automating Mobile Phone Data Collection**](https://www.jaiswalankit.com.np/case-studies/mobile-phone-data-collection) | 🕸️ Automation | `Web Scraping`, `Node.js`, `Data Pipelines` |
+| [**Beyond Basic RAG: Architecting a Fault-Tolerant, Agentic AI Platform**](https://www.jaiswalankit.com.np/engineering/Beyond-Basic-RAG) | 🤖 AI / LLM | `RAG`, `LangChain`, `Vector DB`, `Python` |
+| [**Architecting Instant Scale: Zero-Touch AWS Provisioning**](https://www.jaiswalankit.com.np/engineering/Architecting-Instant-Scale) | ☁️ Cloud / DevOps | `AWS SDK`, `IAM`, `EC2 Orchestration` |
+| [**Engineering an EdTech Behemoth: Scaling an LMS for 15,000+ Concurrent Learners**](https://www.jaiswalankit.com.np/engineering/Engineering-an-EdTech-Behemoth) | 🏗️ System Design | `Microservices`, `MinIO`, `Docker` |
+| [**Architecting Resilient Ingestion: Decoupling High-Payload Data from Real-Time Streams**](https://www.jaiswalankit.com.np/engineering/Architecting-Resilient-Ingestion) | 📨 Distributed Systems | `RabbitMQ`, `Socket.IO`, `Message Durability` |
+| [**Eradicating Operational Drag: Architecting a Resilient Data Ingestion Pipeline**](https://www.jaiswalankit.com.np/engineering/mobile-phone-data-collection) | 🕸️ Automation | `Web Scraping`, `Node.js`, `Data Pipelines` |
 
 ---
 
