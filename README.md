@@ -1,7 +1,6 @@
 <div align="center">
-  <a href="https://jaiswalankit.com.np/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E91F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ankit+Jaiswal;Senior+Software+AI+Engineer;Scalable+Systems+Architect;Full+Stack+Specialist" alt="Typing SVG" />
-  </a>
+  <h1>Hi, I'm Ankit Jaiswal 👋</h1>
+  <h2>Senior Full Stack AI Engineer | Scalable Systems Architect</h2>
 </div>
 
 <div align="center">
@@ -17,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Senior Software AI Engineer** with over **6 years** of experience in designing robust, production-ready solutions. My expertise lies in bridging the gap between complex AI/ML systems and scalable web architectures.
+I am a **Senior Full Stack AI Engineer** with years of experience in designing robust, production-ready solutions. My expertise lies in bridging the gap between complex AI/ML systems and scalable web architectures.
 
 * 🔭 **Currently working on:** Architecting AI-first 60 words daily news update platforms at **Pen of Nepal**.
 * 🌱 **Deep diving into:** Agentic Workflows, Model Context Protocol (MCP), and Advanced RAG patterns.
@@ -32,9 +31,9 @@ I am a **Senior Software AI Engineer** with over **6 years** of experience in de
 | **Category** | **Technologies** |
 | :--- | :--- |
 | **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
-| **Backend & AI** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-bc1439) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind CSS 4.1](https://img.shields.io/badge/Tailwind_CSS_4.1-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+| **Backend & AI** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat&logo=graphql&logoColor=white) ![MCP](https://img.shields.io/badge/Model_Context_Protocol-4B32C3?style=flat) ![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-bc1439) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-C7202C?style=flat&logo=minio&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) |
 
 </div>
@@ -99,5 +98,8 @@ I document my architectural decisions and system designs. Here are some of my de
   </a>
   <a href="https://www.linkedin.com/in/ankitjaiswal56/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/ankitjaiswal56">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
