@@ -54,9 +54,20 @@ I document my architectural decisions and system designs. Here are some of my de
 
 ---
 
+### 💼 Prooject
+
+**Senior AI Engineer (Personal Project) @ [Pen of Nepal](https://jaiswalankit.com.np/)**
+*Nov 2025 - Present*
+* Building an agentic news pipeline with multiple coordinated LLM agents — crawl, summarize, fact-check, and format — that turn raw articles into both a 60-word digest and a fuller in-depth version.
+* Designing an entity-linking layer that connects key terms to background context, so readers can drill from a headline into deeper source material.
+* Running ingestion, summarization, and verification asynchronously, decoupled from delivery, so source bursts and model latency don't block the read path.
+* Developing a React Native frontend with a single-screen, swipeable (Tinder-style) feed for low-friction reading.
+
+---
+
 ### 💼 Professional Experience
 
-**Senior Software AI Engineer (Contract) @ [I AM: Human OS](https://jaiswalankit.com.np/)**
+**Senior AI Engineer @ [I AM: Human OS](https://jaiswalankit.com.np/)**
 *Jan 2025 - Mar 2026*
 * Built a cloud-agnostic FastAPI microservices backend for a personalized AI platform serving 25,000+ users, using Docker and self-hosted MinIO object storage to avoid vendor lock-in.
 * Designed an agentic RAG pipeline with LangGraph and Qdrant, using the Model Context Protocol (MCP) to feed users' personal media and habit data into context – lifting goal-tracking engagement by 35%.
