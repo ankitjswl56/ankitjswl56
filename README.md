@@ -54,7 +54,7 @@ I document my architectural decisions and system designs. Here are some of my de
 
 ---
 
-### 💼 Prooject
+### 💼 Project
 
 **Senior AI Engineer (Personal Project) @ [Pen of Nepal](https://jaiswalankit.com.np/)**
 *Nov 2025 - Present*
