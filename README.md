@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Ankit Jaiswal 👋</h1>
-  <h2>Senior Full Stack AI Engineer | Scalable Systems Architect</h2>
+  <h2>Senior AI Engineer | Scalable Systems Architect</h2>
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Senior Full Stack AI Engineer** with years of experience in designing robust, production-ready solutions. My expertise lies in bridging the gap between complex AI/ML systems and scalable web architectures.
+Backend and AI engineer with 6+ years building scalable, cloud-agnostic SaaS platforms and agentic RAG systems. Strong across distributed microservices, event-driven architecture, and LLM orchestration, with end-to-end ownership from design through infrastructure, observability, and CI/CD in production.
 
 * 🔭 **Currently working on:** Architecting AI-first 60 words daily news update platforms at **Pen of Nepal**.
 * 🌱 **Deep diving into:** Agentic Workflows, Model Context Protocol (MCP), and Advanced RAG patterns.
@@ -57,37 +57,31 @@ I document my architectural decisions and system designs. Here are some of my de
 ### 💼 Professional Experience
 
 **Senior Software AI Engineer (Contract) @ [I AM: Human OS](https://jaiswalankit.com.np/)**
-*July 2025 - Jan 2026*
-* Planned a fault-tolerant, cloud-agnostic backend for a personalized AI platform, supporting 25,000+ users; ensured system resiliency and avoided cloud vendor lock-in by containerizing FastAPI microservices via Docker and deploying self-hosted MinIO for scalable, sovereign object storage.
-* Resolved generic AI output and improved goal-tracking engagement by 35% by pioneering an agentic RAG pipeline (LangGraph, Qdrant); implemented the Model Context Protocol (MCP) to inject users' personal media and habit data into the conversation context, yielding highly relevant, personalized AI guidance.
-* Formulated a resilient chat and media ingestion workflow, reducing payload delivery failures by 98% on unstable mobile networks; replaced fragile bidirectional WebSockets with HTTP POST requests and client-side polling, and integrated sharp for backend image compression to refined storage costs by 75%.
-* Enhanced the platform's content delivery and achieved 99.9% uptime by deploying a custom PGL (Prometheus, Grafana, Loki) observability stack; utilized application telemetry and automated CI/CD to identify UX drop-off points, iteratively refining the app while slashing deployment cycles by 80%.
-
-**Software Engineer (Part-time) @ [Kuration AI](https://www.kurationai.com)**
-*May 2025 - Jun 2025*
-* Engineered a scalable B2B multi-tenant architecture, accelerating enterprise onboarding by 80%; expanded the existing platform pipeline by integrating a centralized organizational portal, directly unlocking a new enterprise revenue stream.
-* Architected Fine-grained access control (FGAC) to address data privacy risks within collaborative workspaces; ensured 100% secure intra-workspace data sharing, empowering teams to safely interact with shared lists without compromising strict organizational data boundaries.
-* Settled opaque SaaS spending by fine-tuning a centralized enterprise metering engine and usage telemetry dashboard; empowered organizational owners with real-time platform analytics, facilitating a 30% optimization in operational costs through resource management.
+*Jan 2025 - Mar 2026*
+* Built a cloud-agnostic FastAPI microservices backend for a personalized AI platform serving 25,000+ users, using Docker and self-hosted MinIO object storage to avoid vendor lock-in.
+* Designed an agentic RAG pipeline with LangGraph and Qdrant, using the Model Context Protocol (MCP) to feed users' personal media and habit data into context – lifting goal-tracking engagement by 35%.
+* Replaced fragile bidirectional WebSockets with HTTP POST plus client-side polling to make chat and media ingestion reliable on unstable mobile networks; added server-side image compression with sharp to cut storage costs.
+* Stood up a Prometheus / Grafana / Loki observability stack and automated CI/CD, sustaining 99.9% uptime and shortening deployment cycles.
 
 **Full Stack Software Engineer @ [CG Global Entertainment Limited](https://cgge.media/en/)**
 *Nov 2023 - Oct 2024*
-* Designed a distributed, Dockerized microservices Learning Management System (LMS) supporting 15,000+ concurrent learners; eliminated single points of failure by isolating high-load services into independent containers, ensuring 99.9% availability even during massive enrollment surges.
-* Spearheaded an asynchronous video processing pipeline using RabbitMQ and FFmpeg to prevent media buffering on low-bandwidth networks; executed HLS adaptive bitrate streaming with SRT subtitle support, reducing playback latency by 60% and ensuring seamless course accessibility.
-* Developed a high-concurrency, interactive classroom chat module that boosted student engagement by 45%; solved critical connection drops during large media uploads by routing heavy file ingestion (up to 7GB) through robust REST APIs while maintaining WebSockets exclusively for low-latency text delivery.
-* Constructed an event-driven data analytics system that decoupled telemetry from primary databases to track student progress and system performance; eradicated administrative blind spots by correlating video drop-off rates with backend latency, empowering admins to use targeted messaging to increase overall course completion by 35%.
+* Designed a Dockerized microservices Learning Management System supporting 15,000+ concurrent learners, isolating high-load services to remove single points of failure.
+* Built an asynchronous video pipeline with RabbitMQ and FFmpeg (HLS adaptive bitrate with SRT subtitles), cutting playback latency on low-bandwidth networks.
+* Implemented a high-concurrency classroom chat module, routing large file uploads (up to 7GB) through REST APIs while keeping WebSockets for low-latency messaging.
+* Created an event-driven analytics system decoupled from primary databases to track learner progress and correlate video drop-off with backend latency.
 
 **Full Stack Backend Engineer @ [Swivt Technologies](https://swivt.io/)**
 *Jan 2022 - Sept 2023*
-* Streamlined client infrastructure provisioning by engineering an event-driven processing engine via the AWS SDK, shrinking onboarding time from hours to under 5 minutes; dynamically orchestrated EC2 instances with pre-deployed JupyterHub AMIs, IAM policies, and S3 integration to eradicate manual configuration overhead.
-* Transformed raw CMS telemetry into a real-time analytics dashboard capable of handling 500,000+ daily events; built an streamlined processing engine that instantly converted massive, complex event logs into clear, actionable reporting for stakeholders.
-* Optimized live streaming infrastructure by architecting a media compression and thumbnail generation system; dynamically processed video assets on-the-fly to refined cloud storage consumption by 45% while entirely eliminating manual image extraction workflows.
-* Secured the administrative SaaS platform by enforcing Policy-Based Access Control (PBAC) paired with an immutable audit logging system; tracked real-time user action history to resolve unauthorized privilege escalation and reduce internal security threats by 99%.
+* Engineered an event-driven provisioning engine on the AWS SDK that cut client onboarding from hours to under 5 minutes, orchestrating EC2 (JupyterHub AMIs), IAM policies, and S3.
+* Created a real-time analytics pipeline processing 500,000+ daily events, turning raw CMS telemetry into actionable reporting for stakeholders.
+* Architected on-the-fly media compression and thumbnail generation, reducing cloud storage consumption and removing manual image workflows.
+* Enforced policy-based access control (PBAC) with immutable audit logging to prevent unauthorized privilege escalation.
 
 **Software Engineer @ [Knowhere Studio](https://jaiswalankit.com.np/)**
 *July 2020 - Jan 2022*
-* Established a secure checkout workflow by integrating the Razorpay API and asynchronous webhooks; guaranteed 100% data consistency between payment confirmation and course access.
-* Fine-tuned the core infrastructure by implementing a Redis MUTEX caching strategy; removed "cache stampede" database overloads during peak student login surges, offloading heavy read operations and shrinking overall system latency by 30%.
-* Addressed high user abandonment rates by constructing a progressive frontend rendering lifecycle; incorporated skeleton UIs and lazy loading to instantly render initial page frames, while optimizing backend API payloads to reduce total data transfer and decrease perceived load times by 45%.
+* Developed a secure checkout flow integrating the Razorpay API with asynchronous webhooks, ensuring consistency between payment confirmation and course access.
+* Implemented a Redis mutex caching strategy that eliminated cache-stampede database overloads during peak login surges, cutting system latency by 30%.
+* Improved perceived load times with skeleton UIs, lazy loading, and lighter backend API payloads.
 
 ---
 
